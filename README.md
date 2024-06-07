@@ -1,1 +1,1 @@
-Repositório da matéria de Governança e Gestão de TI
+Repositório da matéria de governança, gestão de TI e engenharia de software
